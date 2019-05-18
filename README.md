@@ -25,9 +25,9 @@
 https://docs.google.com/forms/d/e/1FAIpQLSe-dGM54bxw8HuOxD3RUViFMD74p2rG5DDnFxvGm7oS6btQ-g/viewform
 
 ## Contatos (para dúvidas, sugestões, CVs ou desabafar...)
-[Linkedin](https://www.linkedin.com/in/phsilveira/)
-[Github](https://github.com/phretina)
-ph@retinavision.com.br
+* [Linkedin](https://www.linkedin.com/in/phsilveira/)
+* [Github](https://github.com/phretina)
+* ph@retinavision.com.br
 
 #### references:
 https://github.com/npdatax/python-introduction
